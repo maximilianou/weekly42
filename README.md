@@ -141,6 +141,8 @@ bash /joincluster.sh >/dev/null 2>&1
 ```
 
 ---
+---
+---
 ### React Typescript notes
 
 - app/src/App.tsx
